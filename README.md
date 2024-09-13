@@ -11,11 +11,7 @@ GameIcons.NET is a .NET Standard 2.1 library that provides an extensive collecti
 
 ## Installation
 
-To install the GameIcons.NET library, run the following command in your NuGet Package Manager Console:
-
-```sh
-Install-Package GameIcons.NET
-```
+To use the GameIcons.NET library, download the latest release from the releases page and add the library to your project.
 
 ## Usage
 
